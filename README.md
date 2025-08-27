@@ -9,7 +9,7 @@ It is to solve medical queries
 Clone the repo
 
 \*\*\*bash
-Project repo:https://github.com/SanikaUmdale/Medical_ChatBot_Gen_Ai.git
+Project repo:https://github.com/
 
 ---
 
